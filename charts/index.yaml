@@ -3,9 +3,9 @@ entries:
   kiam:
   - apiVersion: v1
     appVersion: "3.3"
-    created: "2019-08-14T10:33:35.077198976Z"
+    created: "2019-08-14T11:15:58.59781036Z"
     description: Integrate AWS IAM with Kubernetes
-    digest: 0c773af23eb1885e7bbe1d8b47bcc879f425347bb8bf67b1a0d80b2ba8194734
+    digest: a4fa7a9bb5ad293a786c89c9033e52c4e40d4011a3036f4f37949c449831795b
     engine: gotpl
     home: https://github.com/uswitch/kiam
     keywords:
@@ -22,4 +22,24 @@ entries:
     urls:
     - kiam-2.5.1.tgz
     version: 2.5.1
-generated: "2019-08-14T10:33:35.075047979Z"
+  nginx:
+  - created: "2019-08-14T11:15:58.598455329Z"
+    description: A basic NGINX HTTP server
+    digest: 856d398cf685ea34f687358c8206628332099568bac538052df63370c48eb0db
+    home: https://github.com/helm/helm
+    keywords:
+    - http
+    - nginx
+    - www
+    - web
+    kubeVersion: '>=1.2.0'
+    maintainers:
+    - email: mbutcher@deis.com
+      name: technosophos
+    name: nginx
+    sources:
+    - https://hub.docker.com/_/nginx/
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-14T11:15:58.596175952Z"
