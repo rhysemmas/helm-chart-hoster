@@ -3,7 +3,7 @@ entries:
   kiam:
   - apiVersion: v1
     appVersion: "3.3"
-    created: "2019-08-14T12:14:58.508831784Z"
+    created: "2019-08-14T13:26:57.348751575Z"
     description: Integrate AWS IAM with Kubernetes
     digest: b660b5c9cfcf5474c31e5df0a0863a219a1fd956f0311e5e253649896caa3bf2
     engine: gotpl
@@ -23,7 +23,7 @@ entries:
     - kiam-2.5.1.tgz
     version: 2.5.1
   nginx:
-  - created: "2019-08-14T12:14:58.509276173Z"
+  - created: "2019-08-14T13:26:57.350148633Z"
     description: A basic NGINX HTTP server
     digest: 856d398cf685ea34f687358c8206628332099568bac538052df63370c48eb0db
     home: https://github.com/helm/helm
@@ -42,4 +42,23 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2019-08-14T12:14:58.507504723Z"
+  - created: "2019-08-14T13:26:57.349480504Z"
+    description: A basic NGINX HTTP server
+    digest: f00b8a01aeea396d29abc72fb89f1847f8e8e201b0522e2271bd598456a74940
+    home: https://github.com/helm/helm
+    keywords:
+    - http
+    - nginx
+    - www
+    - web
+    kubeVersion: '>=1.2.0'
+    maintainers:
+    - email: mbutcher@deis.com
+      name: technosophos
+    name: nginx
+    sources:
+    - https://hub.docker.com/_/nginx/
+    urls:
+    - nginx-0.1.0-b.tgz
+    version: 0.1.0-b
+generated: "2019-08-14T13:26:57.346860382Z"
