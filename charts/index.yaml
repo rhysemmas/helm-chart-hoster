@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
   nginx:
-  - created: "2019-08-13T15:30:41.127510714Z"
+  - created: "2019-08-14T10:01:38.683338512Z"
     description: A basic NGINX HTTP server
-    digest: 04a1deef993c5d310e58289a3df052820f342784f9051f0ae7d366d1c9de8a90
+    digest: f74c3a263e49f541cdd094168296a0c2bf73f5fee51f6ba1c89b08cd2681f0c8
     home: https://github.com/helm/helm
     keywords:
     - http
@@ -20,4 +20,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2019-08-13T15:30:41.126828119Z"
+generated: "2019-08-14T10:01:38.682676958Z"
