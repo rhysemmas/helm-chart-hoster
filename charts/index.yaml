@@ -3,7 +3,7 @@ entries:
   kiam:
   - apiVersion: v1
     appVersion: "3.3"
-    created: "2019-08-15T08:29:58.608205891Z"
+    created: "2019-08-20T14:51:39.451359858Z"
     description: Integrate AWS IAM with Kubernetes
     digest: b660b5c9cfcf5474c31e5df0a0863a219a1fd956f0311e5e253649896caa3bf2
     engine: gotpl
@@ -23,7 +23,7 @@ entries:
     - kiam-2.5.1.tgz
     version: 2.5.1
   nginx:
-  - created: "2019-08-15T08:29:58.612438989Z"
+  - created: "2019-08-20T14:51:39.456244808Z"
     description: A basic NGINX HTTP server
     digest: 856d398cf685ea34f687358c8206628332099568bac538052df63370c48eb0db
     home: https://github.com/helm/helm
@@ -42,9 +42,9 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-  - created: "2019-08-15T08:29:58.611834605Z"
+  - created: "2019-08-20T14:51:39.455641384Z"
     description: A basic NGINX HTTP server
-    digest: 83afcd114c458f0337ab2f316ff71068e221a3e2c6dfaa958cf968e58ba97de7
+    digest: 46fab105c6c193b072fd5bb28b9b405b338c57ecb4501f96e0f8cefd8ce3b558
     home: https://github.com/helm/helm
     keywords:
     - http
@@ -61,7 +61,7 @@ entries:
     urls:
     - nginx-0.1.0-g.tgz
     version: 0.1.0-g
-  - created: "2019-08-15T08:29:58.611239917Z"
+  - created: "2019-08-20T14:51:39.454845572Z"
     description: A basic NGINX HTTP server
     digest: ff62e22f720dadf42252d85943cd498d22b8f880deb676906f4a015c28cdd476
     home: https://github.com/helm/helm
@@ -80,7 +80,7 @@ entries:
     urls:
     - nginx-0.1.0-f.tgz
     version: 0.1.0-f
-  - created: "2019-08-15T08:29:58.610663327Z"
+  - created: "2019-08-20T14:51:39.454061056Z"
     description: A basic NGINX HTTP server
     digest: 5ccad57face3d73106f88514fa0c964ed7fda56f300d23ce6c73be0013f7b2c4
     home: https://github.com/helm/helm
@@ -99,7 +99,7 @@ entries:
     urls:
     - nginx-0.1.0-e.tgz
     version: 0.1.0-e
-  - created: "2019-08-15T08:29:58.610069298Z"
+  - created: "2019-08-20T14:51:39.453349994Z"
     description: A basic NGINX HTTP server
     digest: 1dc678f6028d4eda7601b3ffaf352275539d51e2a076059183460339d4ab7414
     home: https://github.com/helm/helm
@@ -118,7 +118,7 @@ entries:
     urls:
     - nginx-0.1.0-d1.tgz
     version: 0.1.0-d1
-  - created: "2019-08-15T08:29:58.609482987Z"
+  - created: "2019-08-20T14:51:39.452319482Z"
     description: A basic NGINX HTTP server
     digest: 22f74a73a781e7bf3e09d8a1a880eba7820db048d2d3f6489cd1363efd56af56
     home: https://github.com/helm/helm
@@ -137,7 +137,7 @@ entries:
     urls:
     - nginx-0.1.0-c.tgz
     version: 0.1.0-c
-  - created: "2019-08-15T08:29:58.608878213Z"
+  - created: "2019-08-20T14:51:39.451877308Z"
     description: A basic NGINX HTTP server
     digest: f00b8a01aeea396d29abc72fb89f1847f8e8e201b0522e2271bd598456a74940
     home: https://github.com/helm/helm
@@ -156,4 +156,4 @@ entries:
     urls:
     - nginx-0.1.0-b.tgz
     version: 0.1.0-b
-generated: "2019-08-15T08:29:58.606355558Z"
+generated: "2019-08-20T14:51:39.423079148Z"
