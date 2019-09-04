@@ -42,6 +42,25 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
+  - created: "2019-09-04T10:37:40.295643516Z"
+    description: A basic NGINX HTTP server
+    digest: a8604f44442ce2fc22eea85571305822fb94a96e8b17992aaf0d892f60b8fd7a
+    home: https://github.com/helm/helm
+    keywords:
+    - http
+    - nginx
+    - www
+    - web
+    kubeVersion: '>=1.2.0'
+    maintainers:
+    - email: mbutcher@deis.com
+      name: technosophos
+    name: nginx
+    sources:
+    - https://hub.docker.com/_/nginx/
+    urls:
+    - nginx-0.1.0-j.tgz
+    version: 0.1.0-j
   - created: "2019-08-20T14:51:39.455641384Z"
     description: A basic NGINX HTTP server
     digest: 46fab105c6c193b072fd5bb28b9b405b338c57ecb4501f96e0f8cefd8ce3b558
@@ -156,4 +175,4 @@ entries:
     urls:
     - nginx-0.1.0-b.tgz
     version: 0.1.0-b
-generated: "2019-08-20T14:51:39.423079148Z"
+generated: "2019-09-04T10:37:40.280090678Z"
