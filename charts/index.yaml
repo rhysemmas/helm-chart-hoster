@@ -3,9 +3,9 @@ entries:
   kiam:
   - apiVersion: v1
     appVersion: "3.3"
-    created: "2019-09-10T09:54:47.003964459Z"
+    created: "2019-09-10T09:59:47.295522787Z"
     description: Integrate AWS IAM with Kubernetes
-    digest: 9a65508d1193d59c979bd222575657916a02a6e701d3f12fa6682a14a57b9cc7
+    digest: f9d3299f484d0138e40debfaceaffa89961ea86d5a38afa374e511f4e06c4940
     engine: gotpl
     home: https://github.com/uswitch/kiam
     keywords:
@@ -217,4 +217,4 @@ entries:
     urls:
     - nginx-0.1.0-b.tgz
     version: 0.1.0-b
-generated: "2019-09-10T09:54:47.001998017Z"
+generated: "2019-09-10T09:59:47.29330243Z"
